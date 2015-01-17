@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/about"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="About"/>
+    <item
+        android:id="@+id/highScore"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="High Score"/>
+    <item
+        android:id="@+id/exit"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="Exit"/>
+    <item
+        android:title="Score:0"
+        android:id="@+id/score"
+        android:showAsAction="always">
+    </item>
+
+</menu>

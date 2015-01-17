@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kill The Zombies</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="welcome">Welcome To The\nZombies\' World</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_game_over">Game Over </string>
+    <string name="title_activity_about">Developed By,\nMd. Mahadi Hasan Nahid\nMd. Imran Hossain Showrov</string>
+    <string name="about_back_button">Back</string>
+    <string name="title_activity_menu_activity_test">MenuActivityTest</string>
+    <string name="title_activity_m">M</string>
+    <string name="title_activity_high_score">HighScore</string>
+    <string name="title_activity_instruction">Instruction</string>
+    <string name="instruction">Kill the black dressed zombie to\n 
+        get point and extra life.\nDon\'t Kill any white dressed zombies\n</string>
+    <string name="title_activity_game_instruction">GameInstruction</string>
+
+</resources>
